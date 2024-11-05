@@ -1,5 +1,5 @@
 public class sample{
-  public static void mai(string args[]){
+  public static void main(string args[]){
     System.out.println("VVCE Mysuru")
       }
 }
